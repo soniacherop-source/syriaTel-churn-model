@@ -4,6 +4,8 @@
 ## Project Overview
 This project aims to predict customer churn for a telecom company (SyriaTel). The goal is to identify customers likely to leave and understand the key factors driving churn.
 
+## Presentation
+👉 https://github.com/soniacherop-source/syriaTel-churn-model/blob/main/Presentation.pdf
 ## Objectives
 - Build machine learning models to predict churn
 - Compare model performance
